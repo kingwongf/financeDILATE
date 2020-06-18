@@ -9,4 +9,4 @@ Using the purposed loss objective, DILATE here [paper](https://papers.nips.cc/pa
 | net_gru_dilate   | 2.381 | 2.051 | **0.0236** |
 
 
-Simply run mainEncoderDEcoder2dProcess.py, mainEncoderDEcoder2dLogProcess.py or mainEncoderDEcoder2dZScoreProcess.py. Replace with your own time series by changing self.df, self.target_col read in __init__. 
+Simply run <mainEncoderDEcoder2dProcess.py>, mainEncoderDEcoder2dLogProcess.py or mainEncoderDEcoder2dZScoreProcess.py. Replace with your own time series by changing self.df, self.target_col read in __init__. 
